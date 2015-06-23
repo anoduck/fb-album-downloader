@@ -1,0 +1,7 @@
+{
+  "name": "fb-album-downloader",
+  "version": "1.0.0",
+  "devDependencies": {
+    "sync-request" : "2.0.1"
+  }
+}
