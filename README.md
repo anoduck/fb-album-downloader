@@ -1,5 +1,5 @@
 # Facebook Album Downloader
-Simple script for downloading image from Facebook album.
+Simple Node.js script for downloading image from Facebook album.
 
 ## What you need
 - Album ID : http://support.averta.net/envato/knowledgebase/find-facebook-album-id/
